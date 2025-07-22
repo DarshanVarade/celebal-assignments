@@ -1,0 +1,17 @@
+{
+  "name": "enhance-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Darshan Varade",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
